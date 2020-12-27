@@ -55,25 +55,25 @@ export const localUsers = [
   },
   {
     id: 10,
-    name: 'Bogdan Bele',
+    name: 'Bogdan Calin',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   },
   {
     id: 11,
-    name: 'Belinda Bele',
+    name: 'Bogdan Bele',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   },
   {
     id: 12,
-    name: 'Maria Enache',
+    name: 'Belinda Bele',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   },
   {
     id: 13,
-    name: 'Bogdan Calin',
+    name: 'Maria Enache',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   },
