@@ -9,14 +9,19 @@ const Card = ({name, email, id}) => {
             <div
                 className='card-user-info'
                 style={{
-                    width: '12.5vw',
+                    width: '13vw',
                 }}
             >
-                <h2>{name}</h2>
+                <h2
+                    className='robot-name'
+                    style={{
+                        'font-size': '18px'
+                    }}
+                >{name}</h2>
                 <p>{email}</p>
             </div>
         </div>
     );
-}
+};
 
 export default Card;
