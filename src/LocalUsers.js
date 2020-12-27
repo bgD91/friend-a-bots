@@ -55,7 +55,37 @@ export const localUsers = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Bogdan Bele',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Belinda Bele',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 12,
+    name: 'Maria Enache',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 13,
+    name: 'Bogdan Calin',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 14,
+    name: 'Claudiu Bele',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 15,
+    name: 'Olga Bele',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }

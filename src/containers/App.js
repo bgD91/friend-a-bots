@@ -18,7 +18,7 @@ class App extends Component {
         fetch('https://jsonplaceholder.typicode.com/users')
             .then(response => response.json())
             .then(users => {
-                this.setState({users: users.concat(users).concat(users)})
+                this.setState({users: users.concat(localUsers).concat(localUsers)})
             });
     }
 
