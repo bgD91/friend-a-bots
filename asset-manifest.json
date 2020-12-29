@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/friend-a-bots/static/css/main.1c9384bd.chunk.css",
-    "main.js": "/friend-a-bots/static/js/main.dc27491a.chunk.js",
-    "main.js.map": "/friend-a-bots/static/js/main.dc27491a.chunk.js.map",
+    "main.js": "/friend-a-bots/static/js/main.faee5f51.chunk.js",
+    "main.js.map": "/friend-a-bots/static/js/main.faee5f51.chunk.js.map",
     "runtime-main.js": "/friend-a-bots/static/js/runtime-main.5f8fe753.js",
     "runtime-main.js.map": "/friend-a-bots/static/js/runtime-main.5f8fe753.js.map",
     "static/css/2.31461e4f.chunk.css": "/friend-a-bots/static/css/2.31461e4f.chunk.css",
-    "static/js/2.d9886255.chunk.js": "/friend-a-bots/static/js/2.d9886255.chunk.js",
-    "static/js/2.d9886255.chunk.js.map": "/friend-a-bots/static/js/2.d9886255.chunk.js.map",
+    "static/js/2.ce2cdc95.chunk.js": "/friend-a-bots/static/js/2.ce2cdc95.chunk.js",
+    "static/js/2.ce2cdc95.chunk.js.map": "/friend-a-bots/static/js/2.ce2cdc95.chunk.js.map",
     "index.html": "/friend-a-bots/index.html",
     "static/css/2.31461e4f.chunk.css.map": "/friend-a-bots/static/css/2.31461e4f.chunk.css.map",
     "static/css/main.1c9384bd.chunk.css.map": "/friend-a-bots/static/css/main.1c9384bd.chunk.css.map",
-    "static/js/2.d9886255.chunk.js.LICENSE.txt": "/friend-a-bots/static/js/2.d9886255.chunk.js.LICENSE.txt",
+    "static/js/2.ce2cdc95.chunk.js.LICENSE.txt": "/friend-a-bots/static/js/2.ce2cdc95.chunk.js.LICENSE.txt",
     "static/media/App.css": "/friend-a-bots/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.5f8fe753.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.d9886255.chunk.js",
+    "static/js/2.ce2cdc95.chunk.js",
     "static/css/main.1c9384bd.chunk.css",
-    "static/js/main.dc27491a.chunk.js"
+    "static/js/main.faee5f51.chunk.js"
   ]
 }
