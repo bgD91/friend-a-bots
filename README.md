@@ -1,4 +1,4 @@
-# robofriends
+# friend-a-bots
 Tutorial for React
 To run the project:
 
