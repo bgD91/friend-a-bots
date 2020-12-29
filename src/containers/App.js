@@ -8,18 +8,19 @@ import ErrorBoundry from "../components/ErrorBoundry";
 
 function App() {
 
-    const [users, setLocalUsers] = useState(localUsers);
+    const [users, setUsers] = useState(localUsers);
     const [searchField, setSearchField] = useState('');
+    const [count, setCount] = useState(0);
 
 
-    useEffect( () => {
+    useEffect(() => {
         fetch('https://jsonplaceholder.typicode.com/users')
             .then(response => response.json())
             .then(users => {
-                setLocalUsers(users.concat(localUsers))
+                setUsers(users.concat(localUsers))
             });
-    },[]);
-
+        console.log(count);
+    }, [count]);
 
 
     const onSearchChange = (event) => {
@@ -41,6 +42,7 @@ function App() {
         (
             <div className='tc'>
                 <h1 className='f1'>Friend-a-bots</h1>
+                <button onClick={() => setCount(count + 1)}>Count</button>
                 <SearchBox searchChange={onSearchChange}/>
                 <Scroll>
                     <ErrorBoundry>

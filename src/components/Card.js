@@ -15,7 +15,7 @@ const Card = ({name, email, id}) => {
                 <h2
                     className='robot-name'
                     style={{
-                        'font-size': '18px'
+                        'fontSize': '18px'
                     }}
                 >{name}</h2>
                 <p>{email}</p>
