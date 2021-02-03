@@ -1,5 +1,5 @@
-# friend-a-bots
-Tutorial for React
+# Friend-a-bots
+
 To run the project:
 
 1. Clone this repo
